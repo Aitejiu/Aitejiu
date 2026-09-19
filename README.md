@@ -41,8 +41,10 @@ Building agentic systems that turn messy real-world workflows<br>into structured
 
 <div align="center">
 
-<img height="165" alt="Aitejiu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aitejiu&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitejiu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img width="100%" alt="Profile details" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img width="49%" alt="Commit stats" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" alt="Top languages" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 </div>
 
