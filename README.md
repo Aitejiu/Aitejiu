@@ -23,10 +23,11 @@ Building agentic systems that turn messy real-world workflows<br>into structured
 
 <div align="center">
 
-<img width="100%" alt="Profile details" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img width="49%" alt="Commit stats" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/output/tokyonight/stats.svg" />
+<img width="49%" alt="Most commit language" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/output/tokyonight/most-commit-language.svg" />
 
-<img width="49%" alt="Commit stats" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-<img width="49%" alt="Top languages" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" alt="Top starred repos" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/output/tokyonight/top-starred-repos.svg" />
+<img width="49%" alt="Streak" src="https://raw.githubusercontent.com/Aitejiu/Aitejiu/main/output/tokyonight/streak.svg" />
 
 </div>
 
